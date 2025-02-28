@@ -1,0 +1,3 @@
+﻿  week2a.cpp
+C:\Users\Kuba\OneDrive - Technological University Dublin\yr 2\algorithims\week2 a\Week2A\Week2A\week2a.cpp(8,38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Week2A.vcxproj -> C:\Users\Kuba\OneDrive - Technological University Dublin\yr 2\algorithims\week2 a\Week2A\x64\Debug\Week2A.exe

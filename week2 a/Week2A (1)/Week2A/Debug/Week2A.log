@@ -1,0 +1,3 @@
+﻿  week2a.cpp
+C:\Users\x00164430\source\repos\Week2A\Week2A\week2a.cpp(8,38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Week2A.vcxproj -> C:\Users\x00164430\source\repos\Week2A\Debug\Week2A.exe
